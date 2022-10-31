@@ -1,0 +1,113 @@
+ConflictName,ConflictType,State,polID,StartYear,EndYear
+China (Qing) Three Feudatories Rebellion (Yunnan Guangdong Fujian) 1673-81,Internal,China,CnQingE,1673,1681
+China (Formosa) 1721,Internal,China,CnQingE,1721,1721
+China (Tibet) 1725-1728,Internal,China,CnQingL,1725,1728
+China (Hunan) 1740,Internal,China,CnQingE,1740,1740
+China (Jinchuan in Szechuan) 1747-49,Internal,China,CnQingE,1747,1749
+China (Tibet and Amdo) 1747,Internal,China,CnQingL,1747,1747
+China (Tibet Lhasa Riot) 1750,Internal,China,CnQingE,1750,1750
+China (Amursana Revolt) 1755-1756,Internal,China,CnQingE,1755,1756
+China (Khalka Mongol rebellion) 1756-57,Internal,China,CnQingE,1756,1757
+China (Afaqi Khoja revolt) 1755-1759,Internal,China,CnQingE,1755,1759
+China (Jinchuan in Szechuan) 1771-76,Internal,China,CnQingE,1771,1776
+China (Shandong rebellion) 1774,Internal,China,CnQingE,1774,1774
+China (Formosa) 1786-87,Internal,China,CnQingE,1787,1788
+China (Miaozi) 1795-97,Internal,China,CnQingE,1795,1795
+China (Afaqi Khoja) 1797,Internal,China,CnQingE,1797,1797
+China (White Lotus sect) 1796-1804,Internal,China,CnQingL,1796,1804
+China (Anhui Tianli Sect) 1805-1840,Internal,China,CnQingL,1805,1840
+China (Mien revolts in Hunan and Guangdong),Internal,China,CnQingL,1805,1805
+China (Peking and Henan) 1813-14,Internal,China,CnQingL,1813,1814
+China (Jahangirs in Xinjiang) 1820-28,Internal,China,CnQingL,1820,1828
+China (Small Swords Society) 1840-1855,Internal,China,CnQingL,1840,1855
+China (Islamic rebellion) (Yunnan) 1845-48,Internal,China,CnQingL,1845,1848
+China (Kashgaria) (East Turkestan) 1847-48,Internal,China,CnQingL,1847,1848
+War of  Seven Khojas,Internal,China,CnQingL,1847,1848
+China (Khoja invasions) 1852-1857,Internal,China,CnQingL,1852,1857
+Taiping Rebellion Phase 1,Internal,China,CnQingL,1850,1860
+China (peasants)  1852-63,Internal,China,CnQingL,1852,1863
+China (Triads in Shanghai) 1853-55,Internal,China,CnQingL,1853,1855
+China (Red Turban Rebellion) 1854-1856,Internal,China,CnQingL,1854,1856
+China (Muslim revolt in Yunnan) 1855-73,Internal,China,CnQingL,1855,1873
+Kucha and Khoja Uprising,Internal,China,CnQingL,1857,1857
+Taiping Rebellion Phase 2,Internal,China,CnQingL,1860,1866
+Miao Revolt Phase 2,Internal,China,CnQingL,1860,1872
+Second Nien Revolt,Internal,China,CnQingL,1860,1868
+Dungan Rebellion,Internal,China,CnQingL,1862,1873
+China (Moslems in Xinjiang) (Khojas) 1862-64,Internal,China,CnQingL,1862,1864
+China (Muslims in Turkestan) 1863-78,Internal,China,CnQingL,1863,1878
+China (Sichuan Youyang anti-missionary revolt) ,Internal,China,CnQingL,1865,1865
+Yellow Cliff Revolt (Shandong),Internal,China,CnQingL,1866,1866
+China (peasants) 1866-68,Internal,China,CnQingL,1866,1868
+China (Jiangsu Yangzhou anti-missionary riot),Internal,China,CnQingL,1868,1868
+China (Islamic rebellion) (Xinjiang) 1868-80,Internal,China,CnQingL,1868,1880
+China (Tianjin Tianjin massacre against missionaries),Internal,China,CnQingL,1870,1870
+China (Fujian Fuzhou anti-missionary riot),Internal,China,CnQingL,1878,1878
+China (Sichuan Chongqing anti-missionary riot),Internal,China,CnQingL,1886,1886
+China (Anhui Wuhu anti-missionary riot),Internal,China,CnQingL,1891,1891
+Jindandao Revolt,Internal,China,CnQingL,1891,1891
+Dungan Rebellion,Internal,China,CnQingL,1895,1896
+China (Sichuan Chengdu anti-missionary revolt),Internal,China,CnQingL,1895,1895
+China (Fujian Kucheng anti-missionary massacre),Internal,China,CnQingL,1895,1895
+China (Shandong Caozhou: Juye Incident),Internal,China,CnQingL,1897,1897
+China (Beijing) 1898,Internal,China,CnQingL,1898,1898
+Boxer Rebellion,Internal,China,CnQingL,1899,1901
+China (Batang Uprising) 1905-1911,Internal,China,CnQingL,1905,1911
+China (Sichuan Railway Protection Movement),Internal,China,CnQingL,1911,1911
+First Nationalist,Internal,China,CnQingL,1911,1911
+China (Hubei) 1911-12,Internal,China,CnQingL,1911,1912
+Manchu-Cinese (Seven Grievances),External,Manchuria,CnQingE,1618,1644
+Later Jin invasion of Korea,External,Manchuria,CnQingE,1627,1627
+Qing invasion of Korea,External,Manchuria,CnQingE,1636,1637
+Qing-Russia,External,Manchuria,CnQingE,1639,1643
+China (Ming)-Qing (Jiangsu Zhejiang Fujian) 1644-62,External,China,CnQingE,1644,1644
+Qing-Russia,External,Manchuria,CnQingE,1649,1653
+Russia-China Korea (Amur) 1647-58,External,China,CnQingE,1647,1647
+China (Qing)-South Ming (Burma) 1661,External,China,CnQingE,1661,1661
+Sino-Russian (Albazin) 1665-1689,External,China,CnQingE,1665,1689
+China-Formosa 1683,External,China,CnQingE,1683,1683
+Russia-China (eastern Siberia) 1683-84,External,China,CnQingE,1683,1683
+China (Qing)-Geerdan Zhungeer (Inner Mongolia Hebei Ningxia) 1690-97,External,China,CnQingE,1690,1690
+Oirat Mongols-China 1690,External,China,CnQingE,1690,1690
+China-Mongols 1696-1697,External,China,CnQingE,1696,1696
+China-Tibet 1709,External,China,CnQingE,1709,1709
+China-Dzoungar Mongols (Tibet East Turkestan) 1716-1720,External,China,CnQingE,1716,1720
+Khosot Mongols (civil war) (China) (with Qing intervention) 1723,External,China,CnQingE,1723,1723
+China (Qing)-Ruobozhangdanjun (Qinghai) 1724,External,China,CnQingE,1724,1724
+China (Qing)-Dzungars (western Mongolia) 1731,External,China,CnQingE,1731,1731
+China (Qing)-Miao (Guizhou Guangxi) 1736,External,China,CnQingE,1736,1736
+China-Altai tribes (central Siberia) 1753-58,External,China,CnQingE,1753,1753
+China-Dzoungars (northwest China) 1755-57,External,China,CnQingE,1755,1755
+China-Khojas (Xinjiang and Kashgaria Turkestan) 1757-59,External,China,CnQingE,1757,1757
+China (Qing)-Mongols (in Xinjiang?) 1760,External,China,CnQingE,1760,1760
+Burma-China (Yunnan) 1763,External,China,CnQingE,1763,1763
+China (Qing)-Afghans (Afghanistan) 1764-65,External,China,CnQingE,1764,1764
+Burma-China (Burma) 1765-70,External,China,CnQingE,1765,1765
+China-Annam (Vietnam) 1788-89,External,China,CnQingE,1788,1788
+China-Vietnam (??i Vi?t Campaign),External,China,CnQingE,1788,1789
+China-Kokand War,External,China,CnQingL,1830,1831
+China-Kokand (West Turkestan) (Kirghistan) 1830,External,China,CnQingL,1830,1830
+First Opium,External,China,CnQingL,1839,1842
+Dogra-Tibet (with Chinese support),External,China,CnQingE,1841,1842
+Russia-China (Maritime Province) 1854-60,External,China,CnQingL,1854,1860
+Second Opium,External,China,CnQingL,1856,1860
+China-Kokand (Kashgaria) (Kirghistan) 1857,External,China,CnQingL,1857,1857
+China-Russia (Amur annexation) 1858-1860,External,China,CnQingE,1858,1860
+France-China 1862-64,External,China,CnQingL,1862,1864
+China-Russia (Yili China) 1871,External,China,CnQingL,1871,1871
+China-Japan (Mudan Incident),External,China,CnQingL,1871,1871
+China-Japan (Japanese invasion of Taiwan),External,China,CnQingE,1874,1874
+China-Britain (Margary Affair diplomatic crisis),External,China,CnQingE,1875,1876
+China-East Turkestan (Kashgar and Dongas) 1876-77,External,China,CnQingL,1876,1877
+France-Tonkin (Vietnam) (with Chinese support) 1882-83,External,China,CnQingL,1882,1883
+Korea (with Chinese and Japanese intervention) 1882,External,China,CnQingL,1882,1882
+Third Franco-Vietnamese,External,China,CnQingL,1883,1885
+Korea (with Chinese and Japanese intervention) 1884,External,China,CnQingL,1884,1884
+China-Britain (Sikkim Expedition),External,China,CnQingE,1888,1888
+Japan-China (Liaodong Korea) 1894-95,External,China,CnQingL,1894,1895
+First Sino-Japanese,External,China,CnQingL,1894,1895
+Britain-China (Weihaiwei) 1898,External,China,CnQingL,1898,1898
+Russia-China (Manchuria) 1900,External,China,CnQingL,1900,1900
+Eight Nations Alliance,External,China,CnQingL,1900,1900
+China-Britain (British Expedition to Tibet),External,China,CnQingE,1903,1904
+China-Tibet (Chinese expedition to Tibet),External,China,CnQingE,1910,1910
